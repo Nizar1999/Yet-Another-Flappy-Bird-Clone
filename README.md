@@ -3,5 +3,5 @@
 </p>
 
 
-![Languages](https://img.shields.io/badge/-C#-%FFD500?style=for-the-badge&logo=cplusplus%logoColor=%23002F40) 
+![Languages](https://img.shields.io/badge/-C#-%FFD500?style=for-the-badge&logo=cplusplus&logoColor=%23002F40) 
  Clone of Flappy Bird
