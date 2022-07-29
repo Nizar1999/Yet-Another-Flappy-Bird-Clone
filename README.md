@@ -4,4 +4,10 @@
 
 
 ![Languages](https://img.shields.io/badge/-C#-%23FFD500?style=for-the-badge&logo=c#&logoColor=%23002F40)
- Clone of Flappy Bird
+ 
+ Yet another flappy bird clone implemented in Unity.
+ 
+ Art made in Aseprite.
+ 
+ # Sample Gameplay
+ ![screen-gif](./screenshots/Gameplay.gif)
