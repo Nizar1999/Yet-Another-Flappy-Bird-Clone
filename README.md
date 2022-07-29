@@ -3,7 +3,9 @@
 </p>
 
 
-![Languages](https://img.shields.io/badge/-C%23-%23FFD500?style=for-the-badge&logo=csharp&logoColor=%23002F40) 
+![CSharp](https://img.shields.io/badge/-C%23-%23FFD500?style=for-the-badge&logo=csharp&logoColor=%23002F40) 
+![Unity](https://img.shields.io/badge/-Unity-%23FFD500?style=for-the-badge&logo=unity&logoColor=%23002F40) 
+![Aseprite](https://img.shields.io/badge/-Aseprite-%23FFD500?style=for-the-badge&logo=aseprite&logoColor=%23002F40) 
  
  Yet another flappy bird clone implemented in Unity.
  
