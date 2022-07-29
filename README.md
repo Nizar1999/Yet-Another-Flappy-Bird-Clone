@@ -3,7 +3,7 @@
 </p>
 
 
-![Languages](https://img.shields.io/badge/-C#-%23FFD500?style=for-the-badge&logo=c-sharp&logoColor=%23002F40)
+![Languages](https://img.shields.io/badge/-C#-%23FFD500?style=for-the-badge&logo=csharp&logoColor=%23002F40)
  
  Yet another flappy bird clone implemented in Unity.
  
