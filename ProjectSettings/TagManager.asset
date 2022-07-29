@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - FG
+  - Pipes
+  - Ground
+  - Score
+  - BG
+  - Lose Panel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1625348255
+    locked: 0
+  - name: Pipes
+    uniqueID: 3492317863
+    locked: 0
+  - name: Ground
+    uniqueID: 1095538361
+    locked: 0
+  - name: FG
+    uniqueID: 3132577595
+    locked: 0
+  - name: Score
+    uniqueID: 3115434799
+    locked: 0
+  - name: UI
+    uniqueID: 1856651915
+    locked: 0
+  - name: Lose Panel
+    uniqueID: 3394026983
+    locked: 0
